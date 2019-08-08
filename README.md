@@ -1,28 +1,32 @@
-# Minimal Text
+# About
 
-Minimal Text is a clean and lightweight Jekyll Theme
+This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
 
-## Documentation
+You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
-__Baseurl__
-
-```yaml
 ---
-title: Minimal Text
-baseurl: "/Minimal-Text"
-```
-The site baseurl is prepended to asset links and the home button in the `post.html` layout. Please note it must start with a "/"
-By changing this you are changing the location of your website. gh.clarkhacks.com`/Minimal-Text` is the location of Minimal-Text in my case.
 
-__Pagination__
+这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
 
-```yaml
-paginate: 5
-paginate_path: "/:num/"
-```
-`paginate` in `_config.yml` is the number of post blocks that will appear on a single page.
-`paginate_path` is at what location your blog pages will be displayed.
+博客访问地址：[点击这里](http://gaohaoyang.github.io)
 
-__The documentation has been implemented because of user questions.__ For more documentation to be please request what you need defined.
+**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
-![screenshot](screenshot.jpg)
+<!--
+
+## 被引用信息
+
+使用了我的模板并写明来源的人：   
+
+* [dreamholy](http://dreamholy.github.io/)
+
+没有注明来源的人：
+
+* [yangshuailing](http://yangshuailing.github.io/com/)
+* [huapu728](http://huapu728.github.io/)
+* [greatbuger](http://greatbuger.github.io/) 
+
+
+-->
+
+
